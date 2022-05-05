@@ -122,6 +122,7 @@ test-suite haskell-server-sdk-test
       Spec.Streaming
       Spec.User
       Util.Features
+      LaunchDarkly.AesonCompat
       LaunchDarkly.Server
       LaunchDarkly.Server.Client
       LaunchDarkly.Server.Client.Internal
