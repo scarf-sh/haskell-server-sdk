@@ -34,6 +34,7 @@ library
       LaunchDarkly.Server.User
       LaunchDarkly.Server.Store
   other-modules:
+      LaunchDarkly.AesonCompat
       LaunchDarkly.Server.Client.Internal
       LaunchDarkly.Server.Config.Internal
       LaunchDarkly.Server.Details
